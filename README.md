@@ -22,8 +22,8 @@ This repository contains a detailed report on the SDLC Analysis of AJIO, includi
 ## How to Use This Repository
 
 - **View the Report**
-  - The PDF report is available in [ISE_ASSIGNMENT_FINAL(NNM23IS049 TASK).pdf](ISE_ASSIGNMENT_FINAL(NNM23IS049 TASK).pdf).
-  - The Word document is available in [ISE_ASSIGNMENT_FINAL(NNM23IS049 TASK).docx](ISE_ASSIGNMENT_FINAL(NNM23IS049 TASK).docx).
+  - The PDF report is available in [ISE_ASSIGNMENT_FINAL(NNM23IS004 TASK).pdf](ISE_ASSIGNMENT_FINAL(NNM23IS004 TASK).pdf).
+  - The Word document is available in [ISE_ASSIGNMENT_FINAL(NNM23IS004 TASK).docx](ISE_ASSIGNMENT_FINAL(NNM23IS004 TASK).docx).
 
 ## Contributions & Feedback
 
